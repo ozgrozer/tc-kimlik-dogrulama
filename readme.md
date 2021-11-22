@@ -1,7 +1,7 @@
 # TC Kimlik Doğrulama
 
 [![npm](https://img.shields.io/npm/v/tc-kimlik-dogrulama.svg?style=flat-square)](https://www.npmjs.com/package/tc-kimlik-dogrulama)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ozgrozer/tc-kimlik-dogrulama/blob/master/license)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ozgrozer/tc-kimlik-dogrulama/blob/main/license)
 
 ## Kurulum
 
@@ -35,4 +35,4 @@ app()
 
 ## Lisans
 
-[MIT](https://github.com/ozgrozer/tc-kimlik-dogrulama/blob/master/license)
+[MIT](https://github.com/ozgrozer/tc-kimlik-dogrulama/blob/main/license)
