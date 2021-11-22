@@ -1,0 +1,8 @@
+{
+  "license": "MIT",
+  "version": "0.0.1",
+  "name": "tc-kimlik-dogrulama",
+  "main": "tcKimlikDogrulama.js",
+  "author": "Ozgur <ozgr@live.com>",
+  "repository": "https://github.com/ozgrozer/tc-kimlik-dogrulama.git"
+}
