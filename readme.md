@@ -1,5 +1,7 @@
 # TC Kimlik Doğrulama
 
+Bu paket tckimlik.nvi.gov.tr üzerinden TC Kimlik doğrulaması yapmaya yardımcı olur.
+
 [![npm](https://img.shields.io/npm/v/tc-kimlik-dogrulama.svg?style=flat-square)](https://www.npmjs.com/package/tc-kimlik-dogrulama)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/ozgrozer/tc-kimlik-dogrulama/blob/main/license)
 
